@@ -1,4 +1,4 @@
-### 👋 Hey, I'm Rich Goodman (@Another-Goodman)
+### 👋 Hey, I'm Richard Goodman (@Another-Goodman)
 
 - 🧫 I’m currently a Postdoc at LSTM looking at antimicrobial resistance (AMR) in Gram-negative bacteria
 - 👀 I’m interested in bacterial genomics and bioinformatics 
