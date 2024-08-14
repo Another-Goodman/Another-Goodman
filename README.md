@@ -6,4 +6,4 @@
 - 🤝 I’m looking to collaborate on using big data for genomic surveillance and improving bacterial genome assembly  
 - 💡 I’m currently learning how to speed up long-read sequencing analysis 
 - 📫 reach me on [Twitter/X](https://twitter.com/Another_Goodman) or [Linkedin](https://www.linkedin.com/in/richard-n-goodman)
-- 🧑‍💻 I have a range of [bioinformatics tutorials and workflows](https://github.com/Another-Goodman/tutorials) published as repositories on Github including ones on [co-occurence analysis of AMR genes](https://github.com/Another-Goodman/co-occurrence-analysis) and [the basics of R](https://github.com/Another-Goodman/R-boot-camp)
+- 🧑‍💻 I have a range of [bioinformatics tutorials and workflows](https://github.com/Another-Goodman/tutorials) published as repositories on Github, feel free to check them out
